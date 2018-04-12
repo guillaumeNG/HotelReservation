@@ -1,0 +1,29 @@
+
+
+img {
+    
+    float: right;
+    text-align: center;
+    margin-right: 536px;
+     height: 155%; 
+    width: 27%;
+border-radius: 70px ;
+
+
+}
+
+
+/*
+ reglage bar nav grise 
+#header{
+    height: 70px;
+    width: 100%;
+    background: darkgray;
+        
+    color: white;
+    padding: 10px;
+    position: relative;
+        right:  -2px;
+        top: 14px;
+}*/
+
